@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Introduction to GitHub (edit)
 
 _Get started using GitHub in less than an hour._
 
@@ -20,6 +20,10 @@ _Get started using GitHub in less than an hour._
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+
+## Kommantar
+
+Mein erster edit. tweiter commit
 
 ## Step 1: Create a branch
 
